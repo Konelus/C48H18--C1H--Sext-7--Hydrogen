@@ -16,6 +16,9 @@
 	<VALUE>SMXQMUtilities.DOSGenerator
 		<STATE NAME="QM Utilities DOS Generator State" VERSION="20.1">
 		<PROPERTIES>
+		<PROPERTY NAME="SpinDisplay">
+		<VALUE>4</VALUE>
+		</PROPERTY>
 		<PROPERTY NAME="SmearingWidth">
 		<VALUE>5.e-003</VALUE>
 		</PROPERTY>
@@ -296,6 +299,9 @@
 	</PROPERTY>
 	<PROPERTY NAME="UseSmearing">
 	<VALUE>true</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="SmearingValueEnabled">
+	<VALUE>false</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="DFTDMethod">
 	<VALUE>1</VALUE>
@@ -1379,6 +1385,9 @@
 	</PROPERTY>
 	<PROPERTY NAME="CalculateOptics">
 	<VALUE>true</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="OpticalLevels">
+	<VALUE>45</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="PolarFrequencies">
 	<VALUE></VALUE>

@@ -16,6 +16,9 @@
 	<VALUE>SMXQMUtilities.DOSGenerator
 		<STATE NAME="QM Utilities DOS Generator State" VERSION="20.1">
 		<PROPERTIES>
+		<PROPERTY NAME="SpinDisplay">
+		<VALUE>4</VALUE>
+		</PROPERTY>
 		<PROPERTY NAME="SmearingWidth">
 		<VALUE>5.e-003</VALUE>
 		</PROPERTY>
@@ -280,7 +283,7 @@
 	<VALUE>3</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="AtomCutoff">
-	<VALUE>3.1</VALUE>
+	<VALUE>3.7</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="IntegrationGrid">
 	<VALUE>3</VALUE>
@@ -1379,6 +1382,9 @@
 	</PROPERTY>
 	<PROPERTY NAME="CalculateOptics">
 	<VALUE>true</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="OpticalLevels">
+	<VALUE>45</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="PolarFrequencies">
 	<VALUE></VALUE>

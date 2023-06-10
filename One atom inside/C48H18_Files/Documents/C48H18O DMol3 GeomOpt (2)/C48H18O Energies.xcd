@@ -4,12 +4,12 @@
 	<CHART_2D>
 		<DATA_2D NumSeries="1">
 			<SERIES_2D UniqueID="0" Name="Total Energy" NumPoints="9">
-				<POINT_2D XY="1,-1839.0422672481" ItemData="1"/>
+				<POINT_2D XY="1,-1839.0422672454" ItemData="1"/>
 				<POINT_2D XY="2,-1839.0722799052" ItemData="2"/>
 				<POINT_2D XY="3,-1839.0862929067" ItemData="3"/>
-				<POINT_2D XY="4,-1839.0913515521" ItemData="4"/>
-				<POINT_2D XY="5,-1839.0920415641" ItemData="5"/>
-				<POINT_2D XY="6,-1839.0923528986" ItemData="6"/>
+				<POINT_2D XY="4,-1839.091351552" ItemData="4"/>
+				<POINT_2D XY="5,-1839.092041564" ItemData="5"/>
+				<POINT_2D XY="6,-1839.0923528987" ItemData="6"/>
 				<POINT_2D XY="7,-1839.0925314886" ItemData="7"/>
 				<POINT_2D XY="8,-1839.0925446827" ItemData="8"/>
 				<POINT_2D XY="9,-1839.092548059" ItemData="9"/>

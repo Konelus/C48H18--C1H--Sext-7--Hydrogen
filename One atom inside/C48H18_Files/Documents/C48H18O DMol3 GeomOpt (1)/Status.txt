@@ -12,7 +12,7 @@ Integration Grid    :        fine
 Occupation          :        thermal       0.0050
 Pseudopotential     :        none                
 Property            :        Optics (TDDFT)      
-Iteration           :          13
-Convergence         :           0.0000033 Ha
+Iteration           :           9
+Convergence         :           0.0000074 Ha
  
 ====================================================
