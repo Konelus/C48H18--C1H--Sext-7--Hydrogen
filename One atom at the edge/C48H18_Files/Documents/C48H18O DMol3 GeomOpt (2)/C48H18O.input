@@ -29,7 +29,7 @@ Occupation                    thermal 0.0050
 Cutoff_Global                 3.7000 angstrom
 
 # Calculated properties
-Tddft                         12
+Tddft                         45
 Tddft_xc                      alda
 plot_dos                     on
 empty_bands                  12

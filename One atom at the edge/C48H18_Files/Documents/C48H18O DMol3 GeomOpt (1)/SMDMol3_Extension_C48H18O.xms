@@ -280,7 +280,7 @@
 	<VALUE>3</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="AtomCutoff">
-	<VALUE>3.1</VALUE>
+	<VALUE>3.7</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="IntegrationGrid">
 	<VALUE>3</VALUE>
@@ -1379,6 +1379,9 @@
 	</PROPERTY>
 	<PROPERTY NAME="CalculateOptics">
 	<VALUE>true</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="OpticalLevels">
+	<VALUE>45</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="PolarFrequencies">
 	<VALUE></VALUE>

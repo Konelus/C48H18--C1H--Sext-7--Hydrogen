@@ -227,7 +227,7 @@
 	</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="MaxMemory">
-	<VALUE>8048</VALUE>
+	<VALUE>8000</VALUE>
 	</PROPERTY>
 	</PROPERTIES>
 	</STATE>
@@ -1379,6 +1379,9 @@
 	</PROPERTY>
 	<PROPERTY NAME="CalculateOptics">
 	<VALUE>true</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="OpticalLevels">
+	<VALUE>45</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="PolarFrequencies">
 	<VALUE></VALUE>
