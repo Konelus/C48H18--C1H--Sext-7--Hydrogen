@@ -196,12 +196,12 @@
     <Document>
       <ID>{4C60E07D-C830-40CC-AABF-0ECB6BBF093A}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O.input</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O.input</URL>
     </Document>
     <Document>
       <ID>{50810AE5-62B7-443B-B2A2-52770CB83E98}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O.xsd</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O.xsd</URL>
       <Property>
         <Name>Visible</Name>
         <Type>11</Type>
@@ -211,32 +211,32 @@
     <Document>
       <ID>{042D9977-3BDF-4347-B24A-BAA85B37C72C}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O.xtd</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O.xtd</URL>
     </Document>
     <Document>
       <ID>{98ABF101-B7C1-4935-A120-6B87E49C70D7}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\SMDMol3_Extension_C48H18O.xms</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\SMDMol3_Extension_C48H18O.xms</URL>
     </Document>
     <Document>
       <ID>{DBBAE9B8-A2E8-4FA1-9969-54FDA2340B50}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\Status.txt</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\Status.txt</URL>
     </Document>
     <Document>
       <ID>{56CC33B3-076C-40F4-B22E-DA894C22BF99}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O Convergence.xcd</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O Convergence.xcd</URL>
     </Document>
     <Document>
       <ID>{898C9703-7560-4942-93E3-7567EA58E1CE}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O Energies.xcd</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O Energies.xcd</URL>
     </Document>
     <Document>
       <ID>{A2C95E42-F1AB-48C4-B72E-B6B1F25A7568}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O.outmol</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O.outmol</URL>
     </Document>
     <Document>
       <ID>{9E661D28-5D46-4012-BEDA-2E3EBCB0CDF3}</ID>
@@ -246,7 +246,7 @@
     <Document>
       <ID>{1B3FAFC5-3A9D-4E12-9ACF-CA8211A276C4}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O DOS.xcd</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O DOS.xcd</URL>
     </Document>
     <Document>
       <ID>{D7D04337-427E-45D8-9480-4ADB54E93E82}</ID>
@@ -281,7 +281,7 @@
     <Document>
       <ID>{C4893584-AD7E-479B-B6CE-D1931515A08E}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18O DMol3 GeomOpt (3+5)\C48H18O Optical Spectrum.xcd</URL>
+      <URL>.\C48H18O DMol3 GeomOpt (2+5)\C48H18O Optical Spectrum.xcd</URL>
     </Document>
   </DocumentManager>
   <ViewRegistry>
